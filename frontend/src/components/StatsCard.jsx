@@ -15,3 +15,5 @@ const StatsCard = ({ title }) => {
     </div>
   );
 };
+
+export default StatsCard;

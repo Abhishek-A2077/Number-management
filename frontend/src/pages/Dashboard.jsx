@@ -25,9 +25,11 @@ const Dashboard = () => {
       </header>
       
       <div className="grid">
-        <StatsCard title="Current Average" value={avg.toFixed(2)} />
-        <NumberWindow numbers={numbers} />
+        <StatsCard title="Current Average" />
+        <NumberWindow />
       </div>
     </div>
   );
 };
+
+export default Dashboard;

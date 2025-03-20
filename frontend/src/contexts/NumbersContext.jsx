@@ -1,6 +1,6 @@
 import { createContext, useState, useEffect } from 'react';
 
-const NumbersContext = createContext();
+export const NumbersContext = createContext();
 
 export const NumbersProvider = ({ children }) => {
   const [windowSize] = useState(10);

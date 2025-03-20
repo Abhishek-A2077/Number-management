@@ -35,7 +35,7 @@ class NumberWindowManager:
         # 3. Attempt registration
         registration_data = {
             "companyName": "SRM Institute of Science and Technology",
-            "ownerName": "Aryan Agarwal",
+            "ownerName": "Abhishek A",
             "rollNo": "RA2211003011636",
             "ownerEmail": "aa6422@srmist.edu.in",
             "accessCode": "SUfGJv"

@@ -15,3 +15,5 @@ const NumberWindow = () => {
     </div>
   );
 };
+
+export default NumberWindow;
