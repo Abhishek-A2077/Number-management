@@ -10,7 +10,7 @@ class NumberWindowManager:
         """Registration with complete API-compliant payload"""
         registration_data = {
             "companyName": "SRM Institute of Science and Technology",
-            "ownerName": "Aryan Agarwal",  # Replace with your name
+            "ownerName": "Abhishek A", 
             "rollNo": "RA2211003011636",
             "ownerEmail": "aa6422@srmist.edu.in",
             "accessCode": "SUfGJv"
